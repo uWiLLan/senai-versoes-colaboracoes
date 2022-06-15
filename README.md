@@ -3,6 +3,7 @@
 git init
 git remote add origin
 git status
+git add
 git pull
 git push
 git add .
